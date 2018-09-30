@@ -1,0 +1,5 @@
+﻿  BattleShipProject.cpp
+  Player.cpp
+e:\cppproject\battleshipbackup\battleship\battleshipproject\battleshipproject\player.cpp(226): error C2065: 'fieldEnemyShoot': undeclared identifier
+e:\cppproject\battleshipbackup\battleship\battleshipproject\battleshipproject\player.cpp(244): error C2065: 'fieldEnemyShoot': undeclared identifier
+  Generating Code...
